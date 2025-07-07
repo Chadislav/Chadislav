@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Chadislav
 - 👀 I’m interested in AI and Blockchain
 - 🌱 I’m currently learning Python
-  
-- 📫 How to reach me : Debank, Lens via Chadislav.eth
 - 😄 Pronouns: what
 - ⚡ Fun fact: top Kek
 
